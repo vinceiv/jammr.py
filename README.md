@@ -4,6 +4,9 @@
 
 This is an in the works server stresser written in python.  Do not use this on any machine you do not own, this is for testing purposes only.
 
+## How to use
+coming soon...
+
 ## Features
 - Randomized User Agents
 
