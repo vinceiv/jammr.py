@@ -88,7 +88,7 @@ if __name__ == '__main__':
         s.connect((host,int(port)))
         s.settimeout(1)
     except socket.error as e:
-        print(e.value)
+        print(str(e))
     jam(100)
     #print(threads)
     #for x in range(1,threads):
